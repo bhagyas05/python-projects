@@ -2,21 +2,21 @@
 
 Welcome to my GitHub repository!
 
-## 👋 About Me
+# About Me
 Hi, I'm Bhagya S Madani.
 
 I am learning Python Full Stack Development and Data Structures & Algorithms.
 
-## 📚 Repository Contents
+# Repository Contents
 - Python Practice
 - LeetCode Solutions
 - Data Structures & Algorithms
 - Full Stack Python Projects
 
-## 🎯 Goal
+# Goal
 My goal is to become a Software Engineer by improving my programming, problem-solving, and full-stack development skills.
 
-## 🚀 Current Learning
+# Current Learning
 - Python
 - HTML
 - CSS
